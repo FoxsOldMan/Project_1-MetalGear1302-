@@ -1,4 +1,6 @@
 this is test
 modify 1
-this is modify in branch:hot_fix.
+conflict test. in trunk.
+conflict test. in branch:bug_fix.
+conflict test. in trunk.
 conflict test. in trunk.
